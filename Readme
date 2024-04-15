@@ -1,0 +1,42 @@
+# CoinQuest: Explore the World of Cryptocurrencies
+
+Welcome to CoinQuest, your ultimate destination for discovering and exploring the fascinating realm of cryptocurrencies! CoinQuest is a frontend website designed to provide you with easy access to data from the CoinCap public API. Whether you're a seasoned investor or just starting out, CoinQuest has something for everyone.
+
+## Features
+
+- Access data from the CoinCap public API
+- Display information for at least 5 different cryptocurrencies
+- Each cryptocurrency object contains at least 3 attributes (e.g., name, price, market cap)
+- Single-page application with no redirects or reloads for seamless browsing
+- 3 distinct event listeners with unique callback functions for enhanced interactivity
+- Utilize array iteration methods such as map, forEach, or filter for efficient data manipulation
+
+## Technologies Used
+
+- HTML for the structure and content of the webpage
+- CSS for styling and layout customization
+- JavaScript for dynamic functionality and interaction with the CoinCap API
+
+## Getting Started
+
+To start exploring CoinQuest, simply open the HTML file in your preferred web browser. The website will load seamlessly, allowing you to view cryptocurrency data and interact with the provided features.
+
+## How to Use
+
+1. Upon loading the website, you'll be greeted with a user-friendly interface displaying information about various cryptocurrencies.
+2. Use the provided search or filter functionality to narrow down the list of cryptocurrencies based on your preferences.
+3. Click on individual cryptocurrency cards to view detailed information, including current price, market cap, and more.
+4. Take advantage of interactive features powered by event listeners, such as sorting or toggling display options.
+5. Enjoy exploring the world of cryptocurrencies with CoinQuest!
+
+## Credits
+
+- CoinCap API: [https://coincap.io/](https://coincap.io/)
+
+## Author
+
+CoinQuest was created by Bill Kimtai.
+
+## License
+
+This project is licensed under the MIT License.
